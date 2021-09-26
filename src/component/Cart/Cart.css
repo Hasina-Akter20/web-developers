@@ -4,8 +4,11 @@
     justify-content: space-evenly;
     border-bottom: 1px solid rgba(128, 128, 128, 0.603);
     margin: 0 10px;
+    background-color: blanchedalmond;
 
 }
 .cart{
 padding :0 15px;
+color: #341f97;
+margin-left: 15px;
 }

@@ -10,8 +10,8 @@ const Cart = (props) => {
 
     return (
         <div className="cart">
-            <h3> Developer Hired : {props.team.length}</h3>
-            <h3>Total Cost : ${total} </h3>
+            <h2> Developer Hired : {props.team.length}</h2>
+            <h2>Total Cost : ${total} </h2>
 
 
         </div>

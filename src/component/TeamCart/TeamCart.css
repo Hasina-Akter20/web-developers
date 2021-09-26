@@ -1,26 +1,30 @@
-.team{
-    text-align: center;
-    line-height: .5;
-    background: #d4d4d4;
-    
-    border-radius: 6px;
+.team {
+  text-align: center;
+  line-height: 0.5;
+  box-shadow: 1px 1px 5px gray;
+  border-radius: 6px;
 }
-.img{
-    width: 90px;
-    border-radius: 50%;
+.img {
+  width: 90px;
+  height: 90px;
+  border-radius: 50%;
 }
-.team-style{
-    padding:20px;
+.team-style {
+  padding: 20px;
 }
-
-.hire-btn{
-    padding:7px 15px;
-    border:1px solid gray;
-    border-radius: 5px;
-    cursor: pointer;
+.hire-btn {
+  padding: 7px 15px;
+  border: 1px solid gray;
+  border-radius: 5px;
+  cursor: pointer;
+  background-color: #341f97;
+  color: white;
+  ;
 }
-.hire-btn:hover{
-    background: rgb(116, 115, 115);
-    transition: 0.5s;
-    color:lightgray;
+.hire-btn:hover {
+  box-shadow: 1px 1px 5px gray;
+  transition: 0.5s;
+}
+.icon{
+    padding-left: 5px;
 }
