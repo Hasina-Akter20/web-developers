@@ -1,0 +1,26 @@
+.team{
+    text-align: center;
+    line-height: .5;
+    background: #d4d4d4;
+    
+    border-radius: 6px;
+}
+.img{
+    width: 90px;
+    border-radius: 50%;
+}
+.team-style{
+    padding:20px;
+}
+
+.hire-btn{
+    padding:7px 15px;
+    border:1px solid gray;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.hire-btn:hover{
+    background: rgb(116, 115, 115);
+    transition: 0.5s;
+    color:lightgray;
+}
